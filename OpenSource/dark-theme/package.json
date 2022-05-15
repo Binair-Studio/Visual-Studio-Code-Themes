@@ -1,0 +1,21 @@
+{
+    "name": "dark-theme",
+    "displayName": "dark-theme",
+    "description": "A black turquoise theme by Binair Studio",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
