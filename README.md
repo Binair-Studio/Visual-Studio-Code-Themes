@@ -9,6 +9,9 @@ We hope you enjoy it
 
 # How do you install a Theme ?
 ****
+****
+## Open Source
+****
 **-Dark-Turquise-Theme**
 ```code --install-extension dark-theme-0.0.1.vsix```
 ****
