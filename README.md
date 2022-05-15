@@ -5,3 +5,10 @@ Hello everyone on this repository you can get great VSCode themes, various are o
 We hope you enjoy it
 
 **-Your Binair Studio team**
+
+
+# How do you install a Theme ?
+****
+**-Dark-Turquise-Theme**
+```code --install-extension dark-theme-0.0.1.vsix```
+****
