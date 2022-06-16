@@ -8,9 +8,10 @@ We hope you enjoy it
 
 
 # How do you install a Theme ?
+Open the Folder from the downloadet extension and write the command with the design in the console 
 ****
 ****
-## Open Source Themes:
+## Themes:
 ****
 **-Dark-Turquise-Theme**
 ```code --install-extension dark-theme-0.0.1.vsix```
